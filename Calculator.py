@@ -20,7 +20,7 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-iwkZZWcsyMNnn/6c9v2ab3e7h4ZiFTOEZ9R6jj75bN9JzYuYjQ/AC7ufEcfpqd4GcTwcM+p2OhPzRSyeKL7NMQ==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-f331a618befc2bf99be870c538f9ac95.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-ldfIeD7fSpzY1dITL/BXG49OHh3m1O1s2j+XoPI9P3Av6p9JemeSfcu3mujtgyLjVfNumtGKMwBk1j7gB+wHGw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-ff83680f35ef916271a72c9b55eda042.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-rmcwe6g2r0tu71KF7mK2jWv2e4Flp0bkMMY1XVASOArIloxdgseoSMLxLpaPS9r3SNd9HnDrcRO1NsiVnoefCg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-ee43a8db34a60f99c2f32b1f1b933717.css" />
     
     
     
@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/19603888?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="jimting/GitProjectTutorialExample" /><meta property="og:url" content="https://github.com/jimting/GitProjectTutorialExample" /><meta property="og:description" content="Just an example for my Tutorial. Contribute to jimting/GitProjectTutorialExample development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mzk1MjUzODM4OjA5YzcwMzZlZjRhNjRmMDNmMjA0MGNjNmQ3ZTRhYmJlZTNiNmY1ODVmZTU0MmRkMjE0OGU4NjhjNWZmNWE0MGY=--2371ee38a1b596c7fdbe00ea152c91013eed0c55">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6Mzk1MjUzODM4OjUwNmNiYjUxNzVmNTM5YTZlMWI0YTQwODYxNjY3MTdkOTUzNTY1NzFjNTIzOGU5NjQ5N2VjOGRkOGNkM2ZiNjc=--c1a4ede82c3645a1e2861de09fec7bce28236c2f">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="F2EE:150C:7BB6CB:E337FB:5CC29D7A" data-pjax-transient>
+  <meta name="request-id" content="7845:19EC:D022DF:15C4414:5CCBE403" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="F2EE:150C:7BB6CB:E337FB:5CC29D7A" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="40398839" /><meta name="octolytics-actor-login" content="thomas205327" /><meta name="octolytics-actor-hash" content="167502b9c017f0f840eeef32d3050f6f3bcb84ca9afa6838438f069e534651d3" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="7845:19EC:D022DF:15C4414:5CCBE403" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="40398839" /><meta name="octolytics-actor-login" content="thomas205327" /><meta name="octolytics-actor-hash" content="167502b9c017f0f840eeef32d3050f6f3bcb84ca9afa6838438f069e534651d3" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,13 +71,13 @@
     <meta name="user-login" content="thomas205327">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="N2VkNGU1NGFhZmUyOTI2ZDY4Y2Y2OTE3ZGRjYjJmY2ZmMmY3MjdjMWY4M2FhODZhM2JiNWFiMTNhNDdhYTA5OHx7InJlbW90ZV9hZGRyZXNzIjoiMjIzLjE0MC42NS44NSIsInJlcXVlc3RfaWQiOiJGMkVFOjE1MEM6N0JCNkNCOkUzMzdGQjo1Q0MyOUQ3QSIsInRpbWVzdGFtcCI6MTU1NjI1ODE4MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="ZDg5NGY1NDFkYjE5MGFlMGJlZThjMzFhZjJiMmUyMTZlNjlhYTQ0M2IyOGFiZmYzNWNmODIzZGVjODgyMmY3ZXx7InJlbW90ZV9hZGRyZXNzIjoiMjIzLjE0MC4yNDQuMTIwIiwicmVxdWVzdF9pZCI6Ijc4NDU6MTlFQzpEMDIyREY6MTVDNDQxNDo1Q0NCRTQwMyIsInRpbWVzdGFtcCI6MTU1Njg2NjA1NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
-    <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES">
+    <meta name="enabled-features" content="SPONSORS_TIERS,UNIVERSE_BANNER,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES">
 
   <meta name="html-safe-nonce" content="241c37f167df2429952a83e91102cdace6269c40">
 
-  <meta http-equiv="x-pjax-version" content="ab267d45e7c3ff4023bf519ddd6ae332">
+  <meta http-equiv="x-pjax-version" content="0b08a5f692d21eda58270e73c1fe8a96">
   
 
       <link href="https://github.com/jimting/GitProjectTutorialExample/commits/master.atom" rel="alternate" title="Recent Commits to GitProjectTutorialExample:master" type="application/atom+xml">
@@ -157,7 +157,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=hGu05XdaFZRhLtyvxniRSm7aBVm08C2iUiFfGK6BnLE7BTAQoHkWuySss/kLklA2gpl84rMU3XFfRVfTsfjxbg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=nynHZfDwNTzO8E3adHIObhE6XW1b5xDz+sXhf1yOQU4gR0OQJ9M2E4tyIoy5mM8S/Xkk1lwD4CD3oem0Q/cskQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -294,9 +294,11 @@
   <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
     Issues
 </a>
-    <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
-      Marketplace
-</a>      
+    <div>
+      <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-selected-links=" /marketplace" href="/marketplace">
+        Marketplace
+</a>        
+    </div>
 
   <a class="js-selected-navigation-item Header-link  mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
     Explore
@@ -305,7 +307,7 @@
       <img class="avatar" src="https://avatars3.githubusercontent.com/u/40398839?s=40&amp;v=4" width="20" height="20" alt="@thomas205327" />
       thomas205327
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="TsxDkQsVwaS3Qt4GUCbUYgmD98iBJxxBQDd1d98ik5+Ud0dhHOyNph2yVQGTjn/FcFjhyRwbfs8+DEN5dcTLiw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="mxZcxdH3h/Y4p7BX0lNrxYIqtRm+zm0lBC0FLN6G+75BrVg1xg7L9JJXO1AR+8Bi+/GjGCPyD6t6FjMidGCjqg==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -393,27 +395,38 @@
 
       <div class="pl-3 pr-5 f6 user-status-container js-user-status-context pb-1" data-url="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1">
         
-<div class="js-user-status-container  user-status-compact rounded-1 px-2 py-1 mt-2 border" data-team-hovercards-enabled>
+<div class="js-user-status-container
+    user-status-compact rounded-1 px-2 py-1 mt-2
+    border
+  " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full d-flex link-gray " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:19603888,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:40398839,&quot;client_id&quot;:&quot;1740467267.1522677053&quot;,&quot;originating_request_id&quot;:&quot;F2EE:150C:7BB6CB:E337FB:5CC29D7A&quot;,&quot;originating_url&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample/blob/master/Calculator.py&quot;,&quot;referrer&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample&quot;}}" data-hydro-click-hmac="672aa98b5f54a43069378939f755bc05d06ae64395082a672dc917c015c9900e">
-      <div class="f6 d-inline-block v-align-middle user-status-emoji-only-header circle pr-2 lh-condensed user-status-header " style="max-width: 29px">
-        <div class="user-status-emoji-container flex-shrink-0 mr-1 mt-1 lh-condensed-ultra v-align-bottom" style="">
-          <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"/></svg>
+    <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit " aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:19603888,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:40398839,&quot;client_id&quot;:&quot;1740467267.1522677053&quot;,&quot;originating_request_id&quot;:&quot;7845:19EC:D022DF:15C4414:5CCBE403&quot;,&quot;originating_url&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample/blob/master/Calculator.py&quot;,&quot;referrer&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample&quot;}}" data-hydro-click-hmac="e7bc82705de9fad68f45d0e2f78726c226a5e7b803229b3581013dd00a92a1fe">
+      <div class="d-flex">
+        <div class="f6 lh-condensed user-status-header
+          d-inline-block v-align-middle
+            user-status-emoji-only-header circle
+            pr-2
+"
+            style="max-width: 29px"
+          >
+          <div class="user-status-emoji-container flex-shrink-0 mr-1 mt-1 lh-condensed-ultra v-align-bottom" style="">
+            <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"/></svg>
+          </div>
         </div>
-      </div>
-      <div class="
-        d-inline-block v-align-middle
-        
-        
-         css-truncate css-truncate-target 
-         user-status-message-wrapper f6"
-        style="line-height: 20px;">
-        <div class="d-inline-block text-gray-dark v-align-text-top">
-            <span class="text-gray ml-2">Set status</span>
+        <div class="
+          d-inline-block v-align-middle
+          
+          
+           css-truncate css-truncate-target 
+           user-status-message-wrapper f6"
+           style="line-height: 20px;" >
+          <div class="d-inline-block text-gray-dark v-align-text-top">
+              <span class="text-gray ml-2">Set status</span>
+          </div>
         </div>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="QUs2ONqJ4DFpYghf+FhP0I6prg1dF4azkpMgGlF1iL99Rem1esoYJih/MA72iXwCdc21LGO3RP9V3ULY29LzLg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="kdPRmD/tX4MLBILi6FKisQMblFjcRZH4EyeO1Au1bAWt3Q4Vn66nlEoZurPmg5Fj+H+PeeLlU7TUaewWgRIXlA==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -446,7 +459,7 @@
             </div>
           </div>
           <include-fragment class="js-user-status-emoji-picker" data-url="/users/status/emoji"></include-fragment>
-          <div class="overflow-auto ml-n3 mr-n3 px-3" style="max-height: 33vh">
+          <div class="overflow-auto ml-n3 mr-n3 px-3 border-bottom" style="max-height: 33vh">
             <div class="user-status-suggestions js-user-status-suggestions collapsed overflow-hidden">
               <h4 class="f6 text-normal my-3">Suggestions:</h4>
               <div class="mx-3 mt-2 clearfix">
@@ -503,7 +516,7 @@
           </div>
             
 
-<div class="d-inline-block f5 border-top mr-2 pt-3 pb-2" >
+<div class="d-inline-block f5 mr-2 pt-3 pb-2" >
   <div class="d-inline-block mr-1">
     Clear status
   </div>
@@ -525,27 +538,27 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-04-26T14:26:22+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-05-03T15:17:35+08:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-04-26T14:56:22+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-05-03T15:47:35+08:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-04-26T17:56:22+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-05-03T18:47:35+08:00">
             in 4 hours
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="today" value="2019-04-26T23:59:59+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="today" value="2019-05-03T23:59:59+08:00">
             today
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="this week" value="2019-04-28T23:59:59+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="this week" value="2019-05-05T23:59:59+08:00">
             this week
           </button>
         </li>
@@ -583,7 +596,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NY0POCJyOXbmpmIZoe+z14mIrYFfMtMjuGOyWMoQqQfvNgvINYt1dExW6R5iRxhw8FO7gMIOsa3GWIRWYPbxEw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FXcunOY7SXJ6i3uNxZ8JTYFSVb4kE4Xr7AbVYjvVK1nPzCps8cIFcNB78IoGN6Lq+IlDv7kv52WSPeNskTNzTQ==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -630,10 +643,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="LgfvyBkGy0uzWVk1FN/NOdqIKopkeRlSKAYOLSwMr8zWindDrom4oSuwTMwDqPNJvXtKOFCZuac15TksxxDobw==" />      <input type="hidden" name="repository_id" value="181192360">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="kpo1Etti3CqP9qLXNS1xY8TIupGFNp2e9s14K6hI2MxqF62ZbO2vwBcfty4iWk8TozvaI7HWPWvrLk8qQ1Sfbw==" />      <input type="hidden" name="repository_id" value="181192360">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:181192360,&quot;client_id&quot;:&quot;1740467267.1522677053&quot;,&quot;originating_request_id&quot;:&quot;F2EE:150C:7BB6CB:E337FB:5CC29D7A&quot;,&quot;originating_url&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample/blob/master/Calculator.py&quot;,&quot;referrer&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample&quot;,&quot;user_id&quot;:40398839}}" data-hydro-click-hmac="694a50e199ec0c4fc94458f038a2b76f79ab330cf5272484c129f864416157f1" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:181192360,&quot;client_id&quot;:&quot;1740467267.1522677053&quot;,&quot;originating_request_id&quot;:&quot;7845:19EC:D022DF:15C4414:5CCBE403&quot;,&quot;originating_url&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample/blob/master/Calculator.py&quot;,&quot;referrer&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample&quot;,&quot;user_id&quot;:40398839}}" data-hydro-click-hmac="b11574f832094ebaba5e1fdd45863b4dd2582093b7da40611922d82ad622531a" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -704,18 +717,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/jimting/GitProjectTutorialExample/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yqQhbJUC+W7xE0+FGLPB1tx3/LEVfDO5AvQ+rU5vqjEtgw8Lmer/mMQpb8p3XFhY4IBwR6xAVT2eYc3y4ZjgcQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/jimting/GitProjectTutorialExample/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jSmXjw55JjHQX71Se9oIfQgxKwUQ77vEmy8jdNF27fFqDrnoApEgx+VlnR0UNZHzNMan86nT3UAHutArfoGnsQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar jimting/GitProjectTutorialExample" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:181192360,&quot;client_id&quot;:&quot;1740467267.1522677053&quot;,&quot;originating_request_id&quot;:&quot;F2EE:150C:7BB6CB:E337FB:5CC29D7A&quot;,&quot;originating_url&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample/blob/master/Calculator.py&quot;,&quot;referrer&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample&quot;,&quot;user_id&quot;:40398839}}" data-hydro-click-hmac="715f58a9551a322aa5f6cd2c42a4d3c2f6c472b6e20529cfc9762fe6350bd962" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar jimting/GitProjectTutorialExample" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:181192360,&quot;client_id&quot;:&quot;1740467267.1522677053&quot;,&quot;originating_request_id&quot;:&quot;7845:19EC:D022DF:15C4414:5CCBE403&quot;,&quot;originating_url&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample/blob/master/Calculator.py&quot;,&quot;referrer&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample&quot;,&quot;user_id&quot;:40398839}}" data-hydro-click-hmac="ec3907cea7e9ea3f9fd0819e831f7d16780b42c0095879948820ff1d533b4f02" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/jimting/GitProjectTutorialExample/stargazers"
            aria-label="0 users starred this repository">
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/jimting/GitProjectTutorialExample/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dAFXf5MyTLY/NEMRDYjDBn1VBE/MqPSzPthMZcJvll3zfPy0B3/minCSs6a2W0T19kioOhOdWF1stmNc3uPFYg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/jimting/GitProjectTutorialExample/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jNZGYhkeF4TVWkJrz61Eqsbchbh+ttP+tgf7lwFX2JYLq+2pjVO9uJr8stx0fsNZTcEpzaGDfxDkadSuHduLqQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star jimting/GitProjectTutorialExample" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:181192360,&quot;client_id&quot;:&quot;1740467267.1522677053&quot;,&quot;originating_request_id&quot;:&quot;F2EE:150C:7BB6CB:E337FB:5CC29D7A&quot;,&quot;originating_url&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample/blob/master/Calculator.py&quot;,&quot;referrer&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample&quot;,&quot;user_id&quot;:40398839}}" data-hydro-click-hmac="edcd808fc15f1f7f08911e69dd526b332d489ac1878a7968291634885ae1ae76" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star jimting/GitProjectTutorialExample" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:181192360,&quot;client_id&quot;:&quot;1740467267.1522677053&quot;,&quot;originating_request_id&quot;:&quot;7845:19EC:D022DF:15C4414:5CCBE403&quot;,&quot;originating_url&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample/blob/master/Calculator.py&quot;,&quot;referrer&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample&quot;,&quot;user_id&quot;:40398839}}" data-hydro-click-hmac="71350be1f191fbfb9aa609dfe7ff38d62a1e33631daccff500a437a9e5684d19" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/jimting/GitProjectTutorialExample/stargazers"
            aria-label="0 users starred this repository">
@@ -726,19 +739,19 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/jimting/GitProjectTutorialExample/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="W2w0TlSliKRNPb8mtU0fprJCVGcNtSo3C2RqMdC/N8QJ42VVmKAhWf2MRLREXiVfOIGJkeeUcNQ3GhwKg+3JYw==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:181192360,&quot;client_id&quot;:&quot;1740467267.1522677053&quot;,&quot;originating_request_id&quot;:&quot;F2EE:150C:7BB6CB:E337FB:5CC29D7A&quot;,&quot;originating_url&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample/blob/master/Calculator.py&quot;,&quot;referrer&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample&quot;,&quot;user_id&quot;:40398839}}" data-hydro-click-hmac="d6509e952474fe198a8cc474afe11f467c3e954aca4577aaf5035aebd94ae95c" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of jimting/GitProjectTutorialExample to your account" aria-label="Fork your own copy of jimting/GitProjectTutorialExample to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/jimting/GitProjectTutorialExample/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UUtv2I6EkJgigCZQkeHQRvGRs8I2P0GgzILP9SpyEaQDxD7DQoE5ZZIx3cJg8uq/e1JuNNweG0Pw/LnOeSDvAw==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:181192360,&quot;client_id&quot;:&quot;1740467267.1522677053&quot;,&quot;originating_request_id&quot;:&quot;7845:19EC:D022DF:15C4414:5CCBE403&quot;,&quot;originating_url&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample/blob/master/Calculator.py&quot;,&quot;referrer&quot;:&quot;https://github.com/jimting/GitProjectTutorialExample&quot;,&quot;user_id&quot;:40398839}}" data-hydro-click-hmac="5042463567bdfcbf64947e8a9868b54c7c54ee6e82c990044ec0449ea2532922" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of jimting/GitProjectTutorialExample to your account" aria-label="Fork your own copy of jimting/GitProjectTutorialExample to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </button></form>
     <a href="/jimting/GitProjectTutorialExample/network/members" class="social-count"
-       aria-label="5 users forked this repository">
-      5
+       aria-label="6 users forked this repository">
+      6
     </a>
   </li>
 </ul>
 
       <h1 class="public ">
-  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+    <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
   <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=19603888" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jimting">jimting</a></span><!--
 --><span class="path-divider">/</span><!--
 --><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/jimting/GitProjectTutorialExample">GitProjectTutorialExample</a></strong>
@@ -857,7 +870,7 @@
 
 
   
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/jimting/GitProjectTutorialExample/blob/ccf8d235a2be971090902871e34138a1e4c334a3/Calculator.py">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/jimting/GitProjectTutorialExample/blob/2c484fe3e42eb1fdaaae7b03a31a8cbb1d9a87b3/Calculator.py">Permalink</a>
 
     <!-- blob contrib key: blob_contributors:v21:dc43d2f72b07e275cb9f0f6c57563055 -->
       
@@ -865,7 +878,7 @@
     <div class="d-flex flex-items-start mb-3 flex-column flex-md-row">
       <span class="d-flex flex-justify-between width-full width-md-auto">
         
-<details class="details-reset details-overlay select-menu branch-select-menu ">
+<details class="details-reset details-overlay select-menu branch-select-menu  hx_rsm" id="branch-select-menu">
   <summary class="btn btn-sm select-menu-button css-truncate"
            data-hotkey="w"
            
@@ -874,7 +887,7 @@
     <span class="css-truncate-target">master</span>
   </summary>
 
-  <details-menu class="select-menu-modal position-absolute" style="z-index: 99;" src="/jimting/GitProjectTutorialExample/ref-list/master/Calculator.py?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/jimting/GitProjectTutorialExample/ref-list/master/Calculator.py?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -983,13 +996,13 @@
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
             </a>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/jimting/GitProjectTutorialExample/edit/master/Calculator.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="TCV7IX1iZeZfoHok+YlwG9UknZUCtwYvZwKCXiaTeLcVxJ+Gn3YziUDZosX8SkavCq43tmFxOzBLV+3OeS7sog==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/jimting/GitProjectTutorialExample/edit/master/Calculator.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qvE58lUxx5qtcblTCsJ9eYi2Y3jdPEOVpf84HD3P4l3zEN1VtyWR9bIIYbIPAUvNVzzJW776foqJqleMYnJ2SA==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/jimting/GitProjectTutorialExample/delete/master/Calculator.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PjPuz8ODIB4Ext+j0lXORTtN1ZmGZWFw/o0D6ndx9TKIQrnLUe9pmuNMUlFukagoTkQvSoT+nhSoFk+8G2MpUA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/jimting/GitProjectTutorialExample/delete/master/Calculator.py" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/Nx0FoHM/ufuK7v8IxgtPU8WiApIuPz2OV7OkVFlfS5KrSMSE6C3YwmhNg6f3EtQOh9y2UojA5JvxYLHPXehTA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1086,7 +1099,7 @@
       <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
         <li><clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/jimting/GitProjectTutorialExample/blame/ccf8d235a2be971090902871e34138a1e4c334a3/Calculator.py">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/jimting/GitProjectTutorialExample/blame/2c484fe3e42eb1fdaaae7b03a31a8cbb1d9a87b3/Calculator.py">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/jimting/GitProjectTutorialExample/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -1122,24 +1135,24 @@
         
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
-    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-6 flex-justify-center flex-lg-justify-start mb-2 mb-lg-0">
-      <li class="mr-3">&copy; 2019 <span title="0.31968s from unicorn-766d4cf555-2kdlb">GitHub</span>, Inc.</li>
-        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
-        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
-        <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
-        <li class="mr-3"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.31357s from unicorn-99b67d6d5-cb965">GitHub</span>, Inc.</li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
     </ul>
 
-    <a aria-label="Homepage" title="GitHub" class="footer-octicon mx-lg-4" href="https://github.com">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
       <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
-   <ul class="list-style-none d-flex flex-wrap col-12 col-lg-6 flex-justify-center flex-lg-justify-end mb-2 mb-lg-0">
-        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
-        <li class="mr-3"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
-      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
-      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
-        <li class="mr-3"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+   <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+        <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
 
     </ul>
@@ -1161,9 +1174,9 @@
 
 
     
-    <script crossorigin="anonymous" integrity="sha512-znYYMX+Ozti23C6Tyo0HKKjG0BPEZICHfEWMgOV7pBypdUmo42DBzCMKUgB80IiwSYIrZBO5F02NXRrZUIHy1Q==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-7404f2c3.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-OQQPf21GQ17reYNr8DexGpu7Y2hlfNdgiizLnvp+FGI5DQDJCRKY6tMO+7/VDyNefIOGd0qVStqlreRRpvwVlg==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-9af09be1.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-tHONx5Hv8uL/E8D+M9d09Hq68tINXSS1+9csBOUdtF2hUrTyiCodTVByihyDspRynmyV86mJVpzorWhqXlCJ9A==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-ae4db4c1.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-cUx+37zjKDYy2pW1viOPdPGLVa8MS23D+G4l5Sv4IrCuUyPx2UMkqIMKkeg22Gz1Q3kw/Bwjp0J+7D7zgg8+tQ==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-1c03348f.js"></script>
     
     
     
