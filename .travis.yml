@@ -29,7 +29,7 @@ deploy:
     secure: 6559df21-cfb8-4222-bd07-f3f81414c933
   app: thomas205327
   on:
-    repo:  thomas205327/GitProjectTutorialExample
+    repo: thomas205327/GitProjectTutorialExample
   #Setting your heroku Procfile here!!!
   run:
     "web: gunicorn app_run:app"
